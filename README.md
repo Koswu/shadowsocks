@@ -48,6 +48,33 @@ To check the log:
 Check all the options via `-h`. You can also use a [Configuration] file
 instead.
 
+---Client---
+-[Android]:           https://github.com/shadowsocks/shadowsocks-android
+-[Build Status]:      https://img.shields.io/travis/shadowsocks/shadowsocks/master.svg?style=flat
+-[bypass firewalls]:  https://github.com/shadowsocks/shadowsocks/wiki/Objective
+-[Configuration]:     https://github.com/shadowsocks/shadowsocks/wiki/Configuration-via-Config-File
+-[Coverage Status]:   https://jenkins.shadowvpn.org/result/shadowsocks
+-[Coverage]:          https://jenkins.shadowvpn.org/job/Shadowsocks/ws/PYENV/py34/label/linux/htmlcov/index.html
+-[Debian sid]:        https://packages.debian.org/unstable/python/shadowsocks
+-[iOS]:               https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help
+-[Issue Tracker]:     https://github.com/shadowsocks/shadowsocks/issues?state=open
+-[Install Server on Windows]: https://github.com/shadowsocks/shadowsocks/wiki/Install-Shadowsocks-Server-on-Windows
+-[Mailing list]:      https://groups.google.com/group/shadowsocks
+-[OpenWRT]:           https://github.com/shadowsocks/openwrt-shadowsocks
+-[OS X]:              https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help
+-[PyPI]:              https://pypi.python.org/pypi/shadowsocks
+-[PyPI version]:      https://img.shields.io/pypi/v/shadowsocks.svg?style=flat
+-[Travis CI]:         https://travis-ci.org/shadowsocks/shadowsocks
+-[Troubleshooting]:   https://github.com/shadowsocks/shadowsocks/wiki/Troubleshooting
+-[Wiki]:              https://github.com/shadowsocks/shadowsocks/wiki
+-[Windows]:           https://github.com/shadowsocks/shadowsocks-csharp
+-[中文说明]:          https://github.com/shadowsocks/shadowsocks/wiki/Shadowsocks-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E
++Apache License
+
+
+
+
+
 Documentation
 -------------
 
